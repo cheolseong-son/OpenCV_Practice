@@ -12,5 +12,6 @@ OpenCV_Pr_1
 	- 색 공간 바꾸기 및 색 추적
 	
 OpenCV_Pr_2
+
 	- 이미지 Thresholding
 	- 이미지 변환 : resize, 이동, 회전, 원근
