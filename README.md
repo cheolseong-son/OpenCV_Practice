@@ -10,3 +10,7 @@ OpenCV_Pr_1
 	- 이미지 픽셀 조작 및 ROI 조작
 	- 이미지 연산 처리를 이용한 이미지 합성하기
 	- 색 공간 바꾸기 및 색 추적
+	
+OpenCV_Pr_2
+	- 이미지 Thresholding
+	- 이미지 변환 : resize, 이동, 회전, 원근
